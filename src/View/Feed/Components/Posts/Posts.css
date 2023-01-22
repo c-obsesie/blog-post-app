@@ -1,0 +1,38 @@
+.post {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    }
+    
+    .post div {
+    text-align: center;
+    font-size: 18px;
+    margin-top: 20px;
+    }
+    
+    .post div:first-child {
+    color: #aaa;
+    }
+    
+    .post div:last-child {
+    color: #f00;
+    }
+    
+    .post h3 {
+    color: #333;
+    font-size: 24px;
+    margin-top: 20px;
+    }
+    
+    .post p {
+    color: #555;
+    font-size: 18px;
+    line-height: 1.5;
+    margin-top: 10px;
+    }
+    
+    .post h4 {
+    color: #777;
+    font-size: 18px;
+    margin-top: 20px;
+    }

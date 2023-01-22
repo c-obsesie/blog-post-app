@@ -1,0 +1,33 @@
+.comment {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f2f2f2;
+    border-radius: 5px;
+    }
+    
+    .comment h5, .comment h6 {
+    margin: 0;
+    }
+    
+    .comment h5 {
+    color: #333;
+    font-size: 16px;
+    font-weight: bold;
+    }
+    
+    .comment h6 {
+    color: #555;
+    font-size: 14px;
+    font-weight: normal;
+    margin-top: 5px;
+    }
+    
+    .comment p {
+    color: #777;
+    font-size: 14px;
+    margin-top: 10px;
+    line-height: 1.5;
+    }
+    
+    
